@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76b3609c-a2c9-4082-8b36-8830996efee9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Como navegadores lidam com elementos desconhecidos.html" beforeDir="false" afterPath="$PROJECT_DIR$/Como navegadores lidam com elementos desconhecidos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Como navegadores lidam com elementos desconhecidos.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Como navegadores lidam com elementos desconhecidos.html" beforeDir="false" afterPath="$PROJECT_DIR$/SpacePioneers.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Como navegadores lidam com elementos desconhecidos.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Como navegadores lidam com elementos desconhecidos.html">
+      <file leaf-file-name="SpacePioneers.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SpacePioneers.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+            <state relative-caret-position="323">
+              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -99,7 +100,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -124,10 +124,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Como navegadores lidam com elementos desconhecidos.html">
+    <entry file="file://$PROJECT_DIR$/SpacePioneers.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        <state relative-caret-position="323">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
         </state>
       </provider>
     </entry>
